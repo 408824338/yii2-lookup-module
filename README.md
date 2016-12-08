@@ -1,6 +1,8 @@
 Lookup
 =================
+Yii2 lookup module mod.
 
+original : http://blog.ituri.net/2015/10/yii2-lookup-module/
 
 Step # 1:
 =========
